@@ -10,5 +10,12 @@
         "bugTracker": "https://github.com/alexcoder04/LeoConsole-apkg-repo-contrib/issues"
     },
     "packageList": [
+        {
+            "name": "hacks",
+            "description": "do things that were not intended",
+            "version": "1.0.0",
+            "os": "any",
+            "url": "https://github.com/alexcoder04/LeoConsole-hacks/releases/download/v1.0.0/hacks.lcpkg"
+        }
     ]
 }
