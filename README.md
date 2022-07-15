@@ -9,10 +9,20 @@ and trusted users, however everyone can submit their own packages.
 
 You can imagine it as a kind of AUR if you are familiar with Arch Linux.
 
-You can enable it by adding following line to your `var/apkg/repos`:
+You can enable it by editing `var/apkg/config.json`:
 
-```text
-https://raw.githubusercontent.com/alexcoder04/LeoConsole-repo-contrib/main/index.json
+```json
+{
+  ... ,
+  "Repositories": [
+    ... ,
+    {
+      "name": "contrib",
+      "url": "https://raw.githubusercontent.com/alexcoder04/LeoConsole-repo-contrib/main/index.json"
+    }
+  ]
+}
+
 ```
 
 Contributions are welcome! If you know how repo indexes work, just open a PR
