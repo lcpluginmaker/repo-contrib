@@ -1,13 +1,13 @@
 {
     "indexVersion": 2.0,
     "name": "contrib",
-    "url": "https://raw.githubusercontent.com/alexcoder04/LeoConsole-apkg-repo-contrib/main/index.json",
+    "url": "https://raw.githubusercontent.com/lcpluginmaker/repo-contrib/main/index.json",
     "project": {
         "description": "contrib repository, plugins submitted by users",
         "maintainer": "alexcoder04",
         "email": "alexcoder04@protonmail.com",
-        "homepage": "https://github.com/alexcoder04/LeoConsole-apkg-repo-contrib",
-        "bugTracker": "https://github.com/alexcoder04/LeoConsole-apkg-repo-contrib/issues"
+        "homepage": "https://github.com/lcpluginmaker/repo-contrib",
+        "bugTracker": "https://github.com/lcpluginmaker/repo-contrib/issues"
     },
     "packageList": [
         {
