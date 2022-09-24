@@ -13,11 +13,11 @@
         {
             "name": "hacks",
             "description": "do things that were not intended",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "os": "any",
-            "lc": ["2.1.0"],
+            "lc": ["2.2.0"],
             "depends": [],
-            "url": "https://github.com/lcpluginmaker/hacks/releases/download/v1.0.1/hacks.lcp"
+            "url": "https://github.com/lcpluginmaker/hacks/releases/download/v1.0.2/hacks.lcp"
         }
     ]
 }
